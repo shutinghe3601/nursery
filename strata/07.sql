@@ -1,5 +1,5 @@
--- Top Percentile Fraud
--- Google, Netflix
+-- 10303.Top Percentile Fraud
+
 
 -- top 5% percentile, use percentil_cont(percentile) within group(order by col) over(partition by)
 

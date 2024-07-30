@@ -1,5 +1,4 @@
--- Title: Employees with Same Birth Month
--- Block 
+-- 10355.Employees with Same Birth Month
 
 -- create a pivot table, extract month as col, profession as index, unique employee_id as value
 
